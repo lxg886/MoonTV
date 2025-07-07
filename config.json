@@ -77,6 +77,10 @@
       "api": "https://caiji.kuaichezy.org/api.php/provide/vod",
       "name": "快车资源网"
     },
+     "slzy": {
+      "api": "https://slapibf.com/api.php/provide/vod",
+      "name": "森林资源"
+    },
     "ikun": {
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
