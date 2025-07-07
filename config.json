@@ -81,6 +81,14 @@
       "api": "https://slapibf.com/api.php/provide/vod",
       "name": "森林资源"
     },
+     "115zy": {
+      "api": "https://155api.com/api.php/provide/vod",
+      "name": "115资源"
+    },
+     "lsbzy": {
+      "api": "https://apilsbzy1.com/api.php/provide/vod",
+      "name": "老色逼资源"
+    },
     "ikun": {
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
